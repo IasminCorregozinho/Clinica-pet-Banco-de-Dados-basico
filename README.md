@@ -103,5 +103,5 @@ O script final demonstra como extrair informações úteis e relatórios do banc
 Para executar este projeto, você precisará de uma instância do PostgreSQL (como pgAdmin, DBeaver ou psql no terminal).
 
 1.  Execute o `clinica_criacao.sql` primeiro para criar a estrutura do banco e inserir os dados.
-2.  Execute (ou estude) o `clinica_manipulacao.sql` para ver exemplos de DML.
-3.  Execute (ou estude) o `clinica_consulta.sql` para extrair informações do banco.
+2.  Execute o `clinica_manipulacao.sql` para ver exemplos de DML.
+3.  Execute o `clinica_consulta.sql` para extrair informações do banco.
