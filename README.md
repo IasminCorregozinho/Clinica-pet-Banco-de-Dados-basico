@@ -1,4 +1,4 @@
-# 🏥 Projeto: Banco de Dados de Clínica Veterinária (PostgreSQL)
+# 🏥 Projeto: Banco de Dados - Clínica Veterinária (PostgreSQL)
 
 Este repositório contém um projeto de banco de dados para um sistema simplificado de gerenciamento de Clínica Veterinária 🐶🐱. 
 
